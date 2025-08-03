@@ -20,7 +20,7 @@ Step-by Step guide to install Windows 10 in vmware workstaion pro 17 using ISO -
 
     d) Give your virtual machine a name, and choose where you want to store it on your computer, then click Next.
 
-    e) Set the disk size, and select Split virtual disk into multiple files, then click Next.
+    e) Select Split virtual disk into multiple files, then click Next.
 
     f) Check the box Power on this virtual machine after installation, then click Finish.
 
